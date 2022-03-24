@@ -1,5 +1,7 @@
 .first-container .text {
   font-size: 0.875rem;
+  text-decoration: none;
+  color: white;
 }
 
 #login-link {
