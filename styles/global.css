@@ -1,0 +1,31 @@
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+
+body {
+  color: white;
+  font-family: "Roboto Light", sans-serif;
+}
+
+span {
+  font-size: 1.125rem;
+}
+
+h1 {
+  font-size: 1.875rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+button {
+  font-size: 0.75rem;
+  padding: 18px 20px;
+  background-color: #ff8000;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
