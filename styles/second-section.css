@@ -1,0 +1,15 @@
+.second-container {
+  background-color: #ff8000;
+  min-height: 375px;
+  display: flex;
+  align-items: center;
+}
+
+.second-container .text h1 {
+  margin-bottom: 50px;
+}
+
+.second-container .text {
+  max-width: 500px;
+  margin-left: 180px;
+}
